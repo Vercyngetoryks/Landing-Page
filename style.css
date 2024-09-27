@@ -33,8 +33,67 @@ body {
 }
 
 .main-nav-link:link,
-.mian-nav-link:visited {
+.main-nav-link:visited {
   text-decoration: none;
   color: #e5e7eb;
   font-size: 1.8rem;
+}
+
+.main-nav-link:hover,
+.main-nav-link:active {
+  color: #c1c3c7;
+}
+
+.section-hero {
+  padding: 4.8rem 9.6rem 9.6rem 9.6rem;
+  background-color: #1f2937;
+  margin-top: -1rem;
+}
+
+.hero {
+  display: flex;
+  gap: 4.8rem;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.hero-text-box {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+  align-items: flex-start;
+}
+
+.heading-primary {
+  font-size: 4.8rem;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.hero-description {
+  font-size: 1.8rem;
+  color: #e5e7eb;
+}
+
+.hero-img-box {
+  display: flex;
+  justify-content: center;
+  /* flex: 1; */
+  /* text-align: center; */
+}
+
+.hero-img {
+  width: 100%;
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1.8rem;
+  padding: 1.6rem 3.2rem;
+  border-radius: 3px;
+  background-color: #3882f6;
+  color: #e5e7eb;
 }
