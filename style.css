@@ -257,3 +257,14 @@ body {
   font-size: 1.8rem;
   color: #e5e7eb;
 }
+
+footer {
+  background-color: #1f2937;
+  padding: 2.4rem;
+  text-align: center;
+}
+
+.copyright {
+  font-size: 1.6rem;
+  color: #e5e7eb;
+}

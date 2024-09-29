@@ -16,6 +16,14 @@ Technologies Used:
 - CSS3
 - Google Fonts for typography.
 
-Purpose
-
+Purpose:
 This project is a practice project for learning the basics of web development. It showcases a clean and simple landing page design that could be adapted for a real-world automotive shop or any other service-based business.
+
+Credits
+Icons by Icons8
+garage img - by cottonbro studio
+mechanic-1 img - by cottonbro studio
+mechanic-2 img - by Andrea Piacquadio
+
+License
+This project is open-source and free to use for educational purposes.
